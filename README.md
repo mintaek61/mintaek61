@@ -8,9 +8,10 @@
 🤩 I'm always eager to learn new skills!<br/>
 
 <b>Connect with me: </b>
-<a href="mailto:omt610@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="20"> 
-</a>
+## 📞 Contact
+- **Email**: mintaek61@naver.com
+- **GitHub**: [github.com/mintaek61](https://github.com/mintaek61)
+- **Blog**: <a href="https://velog.io/@mintaek601" target="_blank"><img src="https://img.shields.io/badge/velog-black?style=plastic&logo=velog&logoColor=#03C75A"/></a>
   
 </div>
 
