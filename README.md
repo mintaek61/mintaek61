@@ -4,7 +4,7 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/018ef09b-4830-4742-8c11-7c2fa58d8c53.svg)](https://wakatime.com/@018ef09b-4830-4742-8c11-7c2fa58d8c53)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyeon818&count_bg=%2333DFFF&title_bg=%23005D9F&icon=&icon_color=%23FFFFFF&title=Jihyeon&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-🌱 I’m front-End prospect<br/>
+🌱 I’m front-end prospect<br/>
 🤩 I'm always eager to learn new skills!<br/>
 
 <b>Connect with me: </b>
