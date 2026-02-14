@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="25" align="center">
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" height="25" align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="25" align="center">
-
+  <img src="https://img.shields.io/badge/Zustand-5B4638?style=for-the-badge&logo=zustand&logoColor=white" height="25" align="center">
+  <img src="https://img.shields.io/badge/Storybook-FF4F8B?style=for-the-badge&logo=storybook&logoColor=white" height="25" align="center">
 </b>
 <br/><br/>
 
