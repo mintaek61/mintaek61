@@ -15,13 +15,15 @@
 </b>
 <br/><br/>
 
+<!-- <b>Career & Activity</b>
+<br/>
+코드잇 스프린트 프론트엔드 단기심화 과정 (2025.11 - 2026.01)
+노마드코더 리액트 스터디 (2024.10 - 2024.12)
+네이버 클라우드 데브옵스 개발자 과정 (2024.02 - 2024.08) -->
+
 
 
 ## 📊 GitHub Stats
-
-<!-- <a href="https://github.com/mintaek61">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mintaek61&theme=tokyonight&show_icons=true" width="50%" />
-</a> -->
 
 <div align="left">
   <a href="https://github.com/mintaek61">
