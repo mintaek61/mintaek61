@@ -1,4 +1,4 @@
-# 오민택 Ronnie
+# 오민택 Front-End Engineer
 
 <b>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="25" align="center">
