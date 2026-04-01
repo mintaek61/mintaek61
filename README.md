@@ -26,8 +26,7 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <a href="https://github.com/mintaek61">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mintaek61&theme=tokyonight&show_icons=true" width="45%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mintaek61&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" width="45%" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mintaek61&theme=tokyonight&show_icons=true" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mintaek61&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" width="45%" />
 </div>
