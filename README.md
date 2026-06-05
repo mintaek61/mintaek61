@@ -1,4 +1,4 @@
-<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ykss.netlify.app/)](https://ykss.netlify.app/) -->
+[![Blog Badge](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=vercel&logoColor=white&link=https://mintaek.vercel.app)](https://mintaek.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohmintaek99/)](https://www.linkedin.com/in/ohmintaek99/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omt610@gmail.com)](mailto:omt610@gmail.com)
 
