@@ -21,6 +21,12 @@
 - [Kurly](https://www.kurly.com/shop/main/index.php) | Frontend Developer (2022.05 ~ 2024.05)
 - [Hyundai Autoever](https://www.hyundai-autoever.com/kor/main/index.do) | Software Engineer (2019.07 ~ 2022.05)
 -->
+
+### 🎒 Internship
+
+- [나눔비타민](https://www.nanumnavi.com/ko) | Frontend Developer (2026.06 ~ 2026.07)
+
+
 ### ⚡ Activity
 
 - [코드잇 스프린트 FE 단기심화 과정](https://sprint.codeit.kr/track/frontend-advanced) (2025.11 ~ 2026.01)
